@@ -1,0 +1,9 @@
+for (var x = 0; x <= 100; x++) {
+  if (x === 0) {
+    console.log(x + " is an even number")
+  } else if (x % 2 === 0) {
+    console.log(x + " is an even number")
+  } else {
+    console.log(x + " is an odd number")
+    }
+  }
